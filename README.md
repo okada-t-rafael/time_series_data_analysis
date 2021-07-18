@@ -1,5 +1,5 @@
 # Python Time Series Data Analysis
-Learning how to use Python , Pandas, Numpy , and Statsmodels for Time Series Forecasting and Analysis!
+Learning how to use Python, Pandas, Numpy and Statsmodels for Time Series Forecasting and Analysis!
 
 - Pandas for Data Manipulation
 - NumPy and Python for Numerical Processing
